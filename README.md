@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shrilekha-369
+- 👋 Hi, I’m Shrilekha
 - 👀 I’m interested in coding and I'm currently exploring various domains of Computer Science.
 - 🌱 I’m currently learning Web Development and also building knowledge on fields of Web3 like Blockchain etc.
 
